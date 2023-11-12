@@ -2,6 +2,7 @@
 int main()
 {
     printf("hello guys");
-    int a,b;
+    int a=9,b=0;
+    printf("%d",a);
 
 }
